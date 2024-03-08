@@ -1,0 +1,14 @@
+C:\Users\1207\Desktop\11DMS\8MartIzpitvane\8MartIzpitvane\bin\Debug\net8.0\8MartIzpitvane.exe
+C:\Users\1207\Desktop\11DMS\8MartIzpitvane\8MartIzpitvane\bin\Debug\net8.0\8MartIzpitvane.deps.json
+C:\Users\1207\Desktop\11DMS\8MartIzpitvane\8MartIzpitvane\bin\Debug\net8.0\8MartIzpitvane.runtimeconfig.json
+C:\Users\1207\Desktop\11DMS\8MartIzpitvane\8MartIzpitvane\bin\Debug\net8.0\8MartIzpitvane.dll
+C:\Users\1207\Desktop\11DMS\8MartIzpitvane\8MartIzpitvane\bin\Debug\net8.0\8MartIzpitvane.pdb
+C:\Users\1207\Desktop\11DMS\8MartIzpitvane\8MartIzpitvane\obj\Debug\net8.0\8MartIzpitvane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1207\Desktop\11DMS\8MartIzpitvane\8MartIzpitvane\obj\Debug\net8.0\8MartIzpitvane.AssemblyInfoInputs.cache
+C:\Users\1207\Desktop\11DMS\8MartIzpitvane\8MartIzpitvane\obj\Debug\net8.0\8MartIzpitvane.AssemblyInfo.cs
+C:\Users\1207\Desktop\11DMS\8MartIzpitvane\8MartIzpitvane\obj\Debug\net8.0\8MartIzpitvane.csproj.CoreCompileInputs.cache
+C:\Users\1207\Desktop\11DMS\8MartIzpitvane\8MartIzpitvane\obj\Debug\net8.0\8MartIzpitvane.dll
+C:\Users\1207\Desktop\11DMS\8MartIzpitvane\8MartIzpitvane\obj\Debug\net8.0\refint\8MartIzpitvane.dll
+C:\Users\1207\Desktop\11DMS\8MartIzpitvane\8MartIzpitvane\obj\Debug\net8.0\8MartIzpitvane.pdb
+C:\Users\1207\Desktop\11DMS\8MartIzpitvane\8MartIzpitvane\obj\Debug\net8.0\8MartIzpitvane.genruntimeconfig.cache
+C:\Users\1207\Desktop\11DMS\8MartIzpitvane\8MartIzpitvane\obj\Debug\net8.0\ref\8MartIzpitvane.dll
